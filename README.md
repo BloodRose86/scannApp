@@ -1,0 +1,2 @@
+# scannApp
+Barcode Scanning app
